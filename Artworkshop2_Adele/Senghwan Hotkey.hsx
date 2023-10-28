@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MaxHotkeyTransformations Locked="false">
+    <Assign_Hotkey Shortcut="`" Description="Set Key" Id="972555510-40015"/>
+    <Unassign_Hotkey Shortcut="A" Description="Angle Snap Toggle" Id="0-40074"/>
+    <Assign_Hotkey Shortcut="A" Description="Backup Time One Unit" Id="0-50020"/>
+    <Unassign_Hotkey Shortcut="S" Description="Snaps Toggle" Id="0-40072"/>
+    <Assign_Hotkey Shortcut="S" Description="Forward Time One Unit" Id="0-50022"/>
+    <Assign_Hotkey Shortcut="1" Description="Set Free Key" Id="972555510-40142"/>
+    <Assign_Hotkey Shortcut="2" Description="Set Sliding Key" Id="972555510-40141"/>
+    <Unassign_Hotkey Shortcut="4" Description="Sub-Object Level 4" Id="647394-SubObject_4`Modifier Stack"/>
+    <Assign_Hotkey Shortcut="4" Description="Select Child" Id="0-40194"/>
+    <Unassign_Hotkey Shortcut="3" Description="Sub-Object Level 3" Id="647394-SubObject_3`Modifier Stack"/>
+    <Assign_Hotkey Shortcut="3" Description="Select Ancestor" Id="0-40193"/>
+    <Assign_Hotkey Shortcut="D" Description="Play Animation" Id="0-50021"/>
+    <Assign_Hotkey Shortcut="Shift+D" Description="Box Mode Selected Toggle" Id="0-274"/>
+    <Unassign_Hotkey Shortcut="W" Description="Select and Move" Id="0-50001"/>
+    <Assign_Hotkey Shortcut="W" Description="Clever Move" Id="647394-JJTools2013_CleverMove`JJTools 2013"/>
+    <Unassign_Hotkey Shortcut="E" Description="Select and Rotate" Id="0-50002"/>
+    <Assign_Hotkey Shortcut="E" Description="Clever Rotate" Id="647394-JJTools2013_CleverRotate`JJTools 2013"/>
+    <Unassign_Hotkey Shortcut="R" Description="Smart Scale" Id="647394-SmartScale`Tools"/>
+    <Assign_Hotkey Shortcut="R" Description="Clever Scale" Id="647394-JJTools2013_CleverScale`JJTools 2013"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Shift+D" Description="Disable Viewport" Id="0-40126"/>
+    <Assign_Hotkey Shortcut="Ctrl+Shift+D" Description="BoneDisplay" Id="647394-BoneDisplay`Brads"/>
+    <Assign_Hotkey Shortcut="3" Description="Edge to Polygon Select" Id="2077580866-40100"/>
+    <Assign_Hotkey Shortcut="Ctrl+4" Description="Sub-Object Level 4" Id="647394-SubObject_4`Modifier Stack"/>
+    <Unassign_Hotkey Shortcut="Ctrl+C" Description="Create Camera (Physical) From View" Id="647394-PhysicalCamera_CreateFromView`Lights and Cameras"/>
+    <Assign_Hotkey Shortcut="Ctrl+C" Description="Chamfer Settings" Id="1250838234-40056"/>
+    <Assign_Hotkey Shortcut="Ctrl+C" Description="Chamfer Settings" Id="369982487-40056"/>
+    <Assign_Hotkey Shortcut="Ctrl+B" Description="Bridge Settings" Id="369982487-40091"/>
+    <Unassign_Hotkey Shortcut="Alt+Q" Description="Isolate Selection" Id="0-197"/>
+    <Unassign_Hotkey Shortcut="Ctrl+Alt+Q" Description="Isolate Selection Toggle" Id="0-268"/>
+    <Assign_Hotkey Shortcut="Alt+Q" Description="Isolate Selection Toggle" Id="0-268"/>
+    <Unassign_Hotkey Shortcut="X" Description="Launch Global Search" Id="39081-32653"/>
+    <Assign_Hotkey Shortcut="X" Description="Constraints Edge" Id="647394-ConstraintsEdge`Ribbon - Modeling"/>
+    <Unassign_Hotkey Shortcut="C" Description="Camera View" Id="0-40068"/>
+    <Assign_Hotkey Shortcut="C" Description="Constraints None" Id="647394-ConstraintsNone`Ribbon - Modeling"/>
+    <Assign_Hotkey Shortcut="9" Description="Align Horizontally to Pivot" Id="2077580866-45330"/>
+    <Assign_Hotkey Shortcut="0" Description="Align Vertically to Pivot" Id="2077580866-45329"/>
+    <Unassign_Hotkey Shortcut="Ctrl+1" Description="Add/Edit Parameters... (TV)" Id="647394-TVCustom_Attributes`Track View"/>
+    <Assign_Hotkey Shortcut="Ctrl+1" Description="PolyDraw StepBuild" Id="647394-PolyDrawStepBuild`PolyTools"/>
+    <Assign_Hotkey Shortcut="Ctrl+2" Description="PolyDraw Extend" Id="647394-PolyDrawExtend`PolyTools"/>
+    <Assign_Hotkey Shortcut="3" Description="Border Level" Id="1250838234-40005"/>
+    <Assign_Hotkey Shortcut="Ctrl+3" Description="PolyDraw Optimize" Id="647394-PolyDrawOptimize`PolyTools"/>
+    <Assign_Hotkey Shortcut="Shift+Space" Description="PolyDraw Conform" Id="647394-PolyDrawConform`PolyTools"/>
+</MaxHotkeyTransformations>
